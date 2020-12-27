@@ -211,7 +211,7 @@ In this step, we will create a poker hand of 4 of a kind.
 
 - The final thing we are going to do is apply a color to the section using the second input we have set up.
 - Using `card.style.color` set it equal to `colorInput.value`, being whatever is typed into the second input.
-- If done properly the text and symbol should change colors appropriately.
+- If done properly the text and symbol should change colors appropriately.å
 
 </details>
 
